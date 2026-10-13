@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Quant-Ai-Speaker: A smart speaker you build yourself. In development.</title>
+  <rect x="1" y="1" width="298" height="358" rx="30" fill="#15120F" stroke="#3A322C" stroke-width="2"/>
+  <g transform="translate(60 12) scale(0.36)"><rect x="140" y="50" width="220" height="400" rx="70" fill="#FFF3E4"/><rect x="214" y="100" width="26" height="62" rx="13.0" fill="#FF6F47"/><rect x="260" y="100" width="26" height="62" rx="13.0" fill="#FF6F47"/><circle cx="250" cy="320" r="72" fill="none" stroke="#15120F" stroke-width="18"/><circle cx="250" cy="320" r="22" fill="#15120F"/></g>
+  <text x="150" y="224" text-anchor="middle" font-size="22" font-weight="700" fill="#FFF3E4">Quant-Ai-Speaker</text>
+  <text x="150" y="252" text-anchor="middle" font-size="15.5" fill="#A89A8A">A smart speaker</text>
+  <text x="150" y="273" text-anchor="middle" font-size="15.5" fill="#A89A8A">you build yourself</text>
+  <rect x="72" y="296" width="156" height="34" rx="17" fill="none" stroke="#FFF3E4" stroke-width="1.5"/><text x="150" y="319" text-anchor="middle" font-size="15" fill="#FFF3E4">In development</text>
+</svg>

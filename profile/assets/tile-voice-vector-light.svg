@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Quant-Voice-Vector: Voice profiles, so it knows who speaks. Ready.</title>
+  <rect x="1" y="1" width="298" height="358" rx="30" fill="#FFF3E4" stroke="none" stroke-width="2"/>
+  <g transform="translate(60 12) scale(0.36)"><rect x="170" y="62" width="160" height="262" rx="80" fill="#15120F"/><rect x="204" y="150" width="32" height="76" rx="16.0" fill="#FF6F47"/><rect x="264" y="150" width="32" height="76" rx="16.0" fill="#FF6F47"/><path d="M122 250A128 128 0 0 0 378 250M250 380V432M196 432H304" fill="none" stroke="#15120F" stroke-width="26" stroke-linecap="round"/></g>
+  <text x="150" y="224" text-anchor="middle" font-size="22" font-weight="700" fill="#15120F">Quant-Voice-Vector</text>
+  <text x="150" y="252" text-anchor="middle" font-size="15.5" fill="#7A6C5D">Voice profiles, so it</text>
+  <text x="150" y="273" text-anchor="middle" font-size="15.5" fill="#7A6C5D">knows who speaks</text>
+  <rect x="100" y="296" width="100" height="34" rx="17" fill="#FF6F47"/><text x="150" y="319" text-anchor="middle" font-size="15" font-weight="600" fill="#15120F">Ready</text>
+</svg>

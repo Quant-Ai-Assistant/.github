@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Quant-Tamagotchi: A pocket companion you build yourself. In development.</title>
+  <rect x="1" y="1" width="298" height="358" rx="30" fill="#FFF3E4" stroke="none" stroke-width="2"/>
+  <g transform="translate(60 12) scale(0.36)"><path d="M250 50C360 50 410 170 410 280C410 390 340 450 250 450C160 450 90 390 90 280C90 170 140 50 250 50Z" fill="#15120F"/><rect x="165" y="150" width="170" height="150" rx="30" fill="#FFF3E4"/><rect x="218" y="190" width="22" height="56" rx="11.0" fill="#FF6F47"/><rect x="260" y="190" width="22" height="56" rx="11.0" fill="#FF6F47"/><circle cx="190" cy="365" r="16" fill="#FF6F47"/><circle cx="250" cy="385" r="16" fill="#FF6F47"/><circle cx="310" cy="365" r="16" fill="#FF6F47"/></g>
+  <text x="150" y="224" text-anchor="middle" font-size="22" font-weight="700" fill="#15120F">Quant-Tamagotchi</text>
+  <text x="150" y="252" text-anchor="middle" font-size="15.5" fill="#7A6C5D">A pocket companion</text>
+  <text x="150" y="273" text-anchor="middle" font-size="15.5" fill="#7A6C5D">you build yourself</text>
+  <rect x="72" y="296" width="156" height="34" rx="17" fill="none" stroke="#15120F" stroke-width="1.5"/><text x="150" y="319" text-anchor="middle" font-size="15" fill="#15120F">In development</text>
+</svg>
