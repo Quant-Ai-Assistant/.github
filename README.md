@@ -6,3 +6,5 @@ The public profile of the [Quant](https://github.com/Quant-Ai-Assistant) organiz
 - [`profile/assets`](profile/assets) holds its pictures. The banner and the project tiles are
   drawn by `generate.py` in a light and a dark version; after changing a project's text or
   status there, run `python3 profile/assets/generate.py` and update the table in the README.
+- Picture addresses in the profile end with `?v=2`. Raise the number after regenerating the
+  pictures, otherwise browsers keep showing the old ones from their cache.

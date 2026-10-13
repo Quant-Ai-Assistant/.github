@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-dark.svg">
-    <img alt="Quant: an open-source alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork and ChatGPT agent. Your server, your data, your devices." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-dark.svg?v=2">
+    <img alt="Quant: an open-source alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork and ChatGPT agent. Your server, your data, your devices." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-light.svg?v=2" width="100%">
   </picture>
 </p>
 
@@ -22,10 +22,10 @@ Quant is an ecosystem, not a single app. The same assistant is meant to be reach
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/Quant-Ai-Assistant/Quant-Core"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-core-dark.svg"><img alt="Quant-Core. The brain: agents on your server, 24/7. In development." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-core-light.svg" width="24%"></picture></a>
-  <a href="https://github.com/Quant-Ai-Assistant/Quant-Voice-Vector"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-voice-vector-dark.svg"><img alt="Quant-Voice-Vector. Voice profiles, so it knows who speaks. Ready." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-voice-vector-light.svg" width="24%"></picture></a>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-ai-speaker-dark.svg"><img alt="Quant-Ai-Speaker. A smart speaker you build yourself. In development." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-ai-speaker-light.svg" width="24%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-tamagotchi-dark.svg"><img alt="Quant-Tamagotchi. A pocket companion you build yourself. In development." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-tamagotchi-light.svg" width="24%"></picture>
+  <a href="https://github.com/Quant-Ai-Assistant/Quant-Core"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-core-dark.svg?v=2"><img alt="Quant-Core. The brain: agents on your server, 24/7. In development." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-core-light.svg?v=2" width="24%"></picture></a>
+  <a href="https://github.com/Quant-Ai-Assistant/Quant-Voice-Vector"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-voice-vector-dark.svg?v=2"><img alt="Quant-Voice-Vector. Voice profiles, so it knows who speaks. Ready." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-voice-vector-light.svg?v=2" width="24%"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-ai-speaker-dark.svg?v=2"><img alt="Quant-Ai-Speaker. A smart speaker you build yourself. In development." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-ai-speaker-light.svg?v=2" width="24%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-tamagotchi-dark.svg?v=2"><img alt="Quant-Tamagotchi. A pocket companion you build yourself. In development." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/tile-tamagotchi-light.svg?v=2" width="24%"></picture>
 </p>
 
 | Project | What it is | Status |
