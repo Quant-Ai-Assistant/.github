@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-dark.svg">
-    <img alt="Quant: open-source Grok Bot alternative. Your server, your data, your devices." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-light.svg" width="100%">
+    <img alt="Quant: an open-source alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork and ChatGPT agent. Your server, your data, your devices." src="https://raw.githubusercontent.com/Quant-Ai-Assistant/.github/main/profile/assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## What Quant is
 
-Quant is an open-source Grok Bot alternative: a personal AI assistant that belongs to the person who runs it. At its center is **Quant-Core**, built on [Rakazo](https://github.com/elie222/rakazo): a server you host yourself, where AI agents keep working 24 hours a day, remember what they were doing and come back with results.
+Quant is an open-source alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork and ChatGPT agent: a personal AI assistant that belongs to the person who runs it. At its center is **Quant-Core**, built on [Rakazo](https://github.com/elie222/rakazo): a server you host yourself, where AI agents keep working 24 hours a day, remember what they were doing and come back with results.
 
 Quant is an ecosystem, not a single app. The same assistant is meant to be reachable from every device you own, to work with the services you already use, and to live inside hardware you can build yourself: each device repository carries the schematics and instructions to make it.
 
@@ -56,3 +56,5 @@ Nothing in this section exists yet.
 Quant projects are free software under the **GNU Affero General Public License v3.0 or later** (AGPL-3.0-or-later). In plain words: you may use, study, change and share them, and if you distribute a version or run a modified one as a service for other people, you have to give them its complete source code under the same license. Each repository carries the full license text.
 
 **Quant-Core is a fork of [Rakazo](https://github.com/elie222/rakazo)** by elie222 and the Rakazo contributors. The original Rakazo code is licensed under the Apache License 2.0, and its license text and copyright notices are kept in the Quant-Core repository. The fork and its modifications are licensed under AGPL-3.0-or-later. Quant is not affiliated with or endorsed by the Rakazo project.
+
+The product names above belong to their owners and are mentioned only for comparison. Quant is not affiliated with any of them.

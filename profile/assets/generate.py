@@ -16,6 +16,12 @@ THEMES = {
 }
 FONT = "-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
 
+# Products Quant is an alternative to, as two lines of the banner.
+ALTERNATIVE_TO = [
+    ("OpenAI Dots", "Meta Muse", "Grok Bot", "Instinct"),
+    ("Manus Cue", "Claude Cowork", "ChatGPT agent"),
+]
+
 # (file name, title, two description lines, ready)
 PROJECTS = [
     ("core", "Quant-Core", ("The brain: agents on", "your server, 24/7"), False),
@@ -79,13 +85,18 @@ def mascot(kind: str, fg: str, bg: str) -> str:
 
 def banner(theme: dict) -> str:
     bg, fg = theme["bg"], theme["fg"]
+    names = "".join(
+        f'<text x="444" y="{y}" font-size="25" fill="{fg}">{" · ".join(line)}</text>'
+        for y, line in zip((246, 280), ALTERNATIVE_TO)
+    )
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" font-family="{FONT}">
-  <title>Quant: open-source Grok Bot alternative</title>
+  <title>Quant: an open-source alternative to {", ".join(sum(ALTERNATIVE_TO, ()))}</title>
   <rect x="1" y="1" width="1198" height="358" rx="40" fill="{bg}" stroke="{theme["edge"]}" stroke-width="2"/>
   <g transform="translate(30 -20) scale(0.8)">{mascot("core", fg, bg)}</g>
-  <text x="440" y="170" font-size="112" font-weight="700" fill="{fg}">Quant</text>
-  <text x="444" y="232" font-size="40" fill="{fg}">Open-source Grok Bot alternative</text>
-  <text x="444" y="288" font-size="27" fill="{ORANGE}">Your server · your data · your devices</text>
+  <text x="440" y="150" font-size="104" font-weight="700" fill="{fg}">Quant</text>
+  <text x="444" y="204" font-size="30" font-weight="600" fill="{fg}">An open-source alternative to</text>
+  {names}
+  <text x="444" y="322" font-size="23" fill="{ORANGE}">Your server · your data · your devices</text>
 </svg>
 """
 
